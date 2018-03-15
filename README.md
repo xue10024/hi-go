@@ -24,15 +24,13 @@ func main()
 ### go 链接\[]\()
 
 goooo [tooo](http://www.baidu.com) yoooou.
-
 Some of these words *are emphasized*.
 
 ### to 引用>
 
 >Some of these words _are emphasized also_.
 
-### be 字体*/——、**/__
+### be 字体 斜体*/——、加粗**/__
 
 Use two as terisks for**strongemphasis**.
-
 Or, if you prefer,__usetwounderscoresinstead__.
