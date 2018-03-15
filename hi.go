@@ -26,5 +26,5 @@ type golan interface{}
 
 //由main函数作为程序主入口启动
 func main() {
-	fmt.Println("helloooo gooooo,狗")
+	fmt.Println("helloo11555oo gooooo,狗")
 }
