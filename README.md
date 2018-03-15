@@ -8,6 +8,9 @@ hiiiiiii
 
 ### go
 
-goooooooo
+goooooooo size='+2'>to</font>
 
-Someofthesewords*areemphasized*.Someofthesewords_areemphasizedalso_.Usetwoasterisksfor**strongemphasis**.Or,ifyouprefer,__usetwounderscoresinstead__.
+Some of these words *are emphasized*.
+Some of these words _are emphasized also_.
+Use two as terisks for**strongemphasis**.
+Or, if you prefer,__usetwounderscoresinstead__.
