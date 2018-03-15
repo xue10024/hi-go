@@ -9,4 +9,5 @@ hiiiiiii
 ### go
 
 goooooooo
-Someofthesewords*areemphasized*Someofthesewords_areemphasizedalso_Usetwoasterisksfor**strongemphasis**.Or,ifyouprefer,__usetwounderscoresinstead__.
+
+Someofthesewords*areemphasized*.Someofthesewords_areemphasizedalso_.Usetwoasterisksfor**strongemphasis**.Or,ifyouprefer,__usetwounderscoresinstead__.
