@@ -21,7 +21,7 @@ func main()
 
     4.2.llll
 
-### go 链接[]()
+### go 链接\[]\()
 
 goooo [tooo](http://www.baidu.com) yoooou.
 
