@@ -14,7 +14,7 @@ nh呵呵
 
 ### go
 
-goooo [tooo](http://example.com) yoooou.
+goooo [tooo](http://www.baidu.com) yoooou.
 
 Some of these words *are emphasized*.
 
