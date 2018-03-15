@@ -1,6 +1,8 @@
 # hi-go 代码
 
-代码块的的首行用3个反引号\```和编程语言名称（C、CS、Python等，甚至Markdown）标记代码块开始，代码块的结尾用3个反引号```闭合代码块。
+代码块的的首行用3个反引号\```和编程语言名称（C、go等）标记代码块开始，代码块的结尾用3个反引号```闭合代码块。
+
+  段落：在两段之间加一空行，例如本段与上段。
 
 ```go
 package main
@@ -24,6 +26,7 @@ func main()
 ### go 链接\[]\()
 
 goooo [tooo](http://www.baidu.com) yoooou.
+
 Some of these words *are emphasized*.
 
 ### to 引用>
