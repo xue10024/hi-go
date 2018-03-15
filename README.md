@@ -2,6 +2,15 @@
 
 nh呵呵
 
+```go
+package main
+import "fmt"
+func main()
+{
+    fmt.println("hello  。。。")
+}
+```
+
 ## hi
 
 3.llll
