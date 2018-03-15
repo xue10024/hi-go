@@ -4,10 +4,6 @@ nh呵呵
 
 ## hi
 
-1.hiiiiiii
-
-2.kkkk
-
 3.llll
 
 4.hiiiiiii
@@ -18,7 +14,7 @@ nh呵呵
 
 ### go
 
-goooooooo.
+goooo [tooo](http://example.com) yoooou.
 
 Some of these words *are emphasized*.
 
