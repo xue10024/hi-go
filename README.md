@@ -4,7 +4,9 @@ nh呵呵
 
 ## hi
 
-+hiiiiiii +kkkk +llll
+1.hiiiiiii
+2.kkkk 
+3.llll
 
 ### go
 
@@ -14,6 +16,6 @@ Some of these words *are emphasized*.
 
 >Some of these words _are emphasized also_.
 
-    Use two as terisks for**strongemphasis**.
+Use two as terisks for**strongemphasis**.
 
 Or, if you prefer,__usetwounderscoresinstead__.
